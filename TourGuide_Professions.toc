@@ -6,6 +6,6 @@
 ## Version: 1.0
 ## X-Category: Professions
 
-## RequiredDeps: TourGuideVanilla
+## RequiredDeps: TourGuide-Turtle
 
 Guides.xml
